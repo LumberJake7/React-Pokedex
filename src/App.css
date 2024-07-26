@@ -1,0 +1,30 @@
+/* App.css */
+
+.App {
+  display: ;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: grey !important;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card.m-2 {
+  background-color: rgb(182, 178, 178);
+}
+
+h5 {
+  color: blue !important;
+}
